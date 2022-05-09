@@ -1,8 +1,19 @@
+ /* Parte 2: CSS */
+ body{
+     background-color: #63ace8;
+     padding: 2%;
+ }
+ 
  .container {
      background-color: transparent;
      text-align: center;
  }
 
+ img{
+     width: 80%;
+     height: 80%;
+     margin: 1%;
+ }
  .button {
      background: linear-gradient(to bottom, #ededed 5%, #dfdfdf 100%);
      background-color: #ededed;
